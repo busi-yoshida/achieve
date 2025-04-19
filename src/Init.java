@@ -5,6 +5,9 @@ public class Init {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("test123");
 		System.out.println("test456");
+		System.out.println("test789");
+		System.out.println("test123456");
+		System.out.println("test123456789");
 	}
 
 }
