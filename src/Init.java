@@ -8,6 +8,9 @@ public class Init {
 		System.out.println("test789");
 		System.out.println("test123456");
 		System.out.println("test123456789");
+		System.out.println("a");
+		System.out.println("b");
+		System.out.println("c");
 	}
 
 }
